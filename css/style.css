@@ -119,6 +119,8 @@ body {
   font-family: "LibreFranklin";
   font-weight: 800;
   border-radius: 0.5rem;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
   cursor: pointer;
   transition: ease 0.3s;
   border: none;
