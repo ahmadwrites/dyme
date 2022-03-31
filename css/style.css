@@ -93,6 +93,11 @@ body {
   color: #fff;
 }
 
+.hero-subtitle {
+  font-size: 3.4rem;
+  color: #fff;
+}
+
 .hero-form {
   margin-top: 2rem;
 }
@@ -156,6 +161,11 @@ body {
 
   .hero-title {
     font-size: 2.5rem;
+    color: #fff;
+  }
+
+  .hero-subtitle {
+    font-size: 2.125rem;
     color: #fff;
   }
 
