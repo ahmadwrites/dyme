@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "LibreFranklin";
-  src: url("../fonts/static/LibreFranklin-Regular.ttf") format("TrueType");
+  src: url("../fonts/static/LibreFranklin-Light.ttf") format("TrueType");
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -96,6 +96,7 @@ body {
 .hero-subtitle {
   font-size: 3.4rem;
   color: #fff;
+  font-weight: 300;
 }
 
 .hero-form {
@@ -110,7 +111,7 @@ body {
   font-family: "LibreFranklin";
   color: #fff;
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 400;
   border-bottom: 5px solid #fff;
 }
 
